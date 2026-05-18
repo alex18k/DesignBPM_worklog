@@ -74,7 +74,7 @@ python3 app.py
 默认配置 (config.py):
 ```python
 DB_CONFIG = {
-    'server': '100.91.86.88',
+    'server': '***.***.***.***',
     'port': 14330,
     'database': 'UltimusServer_2021',
     'user': 'sa',
